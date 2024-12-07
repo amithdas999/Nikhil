@@ -1,0 +1,11 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1726654538268,192,jp@gc - Dummy Sampler,200,OK,Thread Group 1-2,text,true,,15,0,2,2,null,43,0,3
+1726654538073,371,jp@gc - Dummy Sampler,200,OK,Thread Group 1-1,text,true,,15,0,2,2,null,10,0,4
+1726654538466,408,jp@gc - Dummy Sampler,200,OK,Thread Group 1-3,text,true,,15,0,3,3,null,10,0,5
+1726654538663,395,jp@gc - Dummy Sampler,200,OK,Thread Group 1-4,text,true,,15,0,2,2,null,32,0,4
+1726654539063,182,jp@gc - Dummy Sampler,200,OK,Thread Group 1-6,text,true,,15,0,2,2,null,31,0,3
+1726654538862,386,jp@gc - Dummy Sampler,200,OK,Thread Group 1-5,text,true,,15,0,2,2,null,1,0,3
+1726654539261,80,jp@gc - Dummy Sampler,200,OK,Thread Group 1-7,text,true,,15,0,1,1,null,14,0,1
+1726654539462,204,jp@gc - Dummy Sampler,200,OK,Thread Group 1-8,text,true,,15,0,2,2,null,40,0,1
+1726654539862,217,jp@gc - Dummy Sampler,200,OK,Thread Group 1-10,text,true,,15,0,2,2,null,46,0,1
+1726654539663,470,jp@gc - Dummy Sampler,200,OK,Thread Group 1-9,text,true,,15,0,1,1,null,41,0,1
